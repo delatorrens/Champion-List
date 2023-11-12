@@ -73,7 +73,7 @@ body{
     text-align: center;
     background-color: transparent;
     backdrop-filter: blur(5px);
-    height:420px;
+    height:470px;
     width: 550px;
     border-radius: 3%;
     border-style: solid;
@@ -103,7 +103,7 @@ body{
 
 .shooters{
     position: absolute;
-    top: 450px;
+    top: 500px;
     right: 0%;
     text-align: center;
     background-color: transparent;
